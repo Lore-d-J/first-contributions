@@ -114,6 +114,7 @@ Saryuna Batobolotova
 - [CHAN](https://github.com/LEECHANHYUNG)
 -  [Passarini](https://github.com/m12Passarini)
 - [Rudraksh Jurel](https://github.com/Rudraksh1510)
+- [John Erol Tambal](https://github.com/Lore-d-J) HELLLOOOOOOOOOO this is my first contribution ^^
 - [Likhitha Ramachandrapurapu] My first open-source contribution
 - It's Me
 - [Sathvik Q.](https://github.com/SathvikQ)
